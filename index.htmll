@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Global Education System</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- //Meta Tags -->
+
+    <!-- Style-sheets -->
+    <!-- Bootstrap Css -->
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- Bootstrap Css -->
+    <!-- Bars Css -->
+    <link rel="stylesheet" href="css/bar.css">
+    <!--// Bars Css -->
+    <!-- Calender Css -->
+    <link rel="stylesheet" type="text/css" href="css/pignose.calender.css" />
+    <!--// Calender Css -->
+    <!-- Common Css -->
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!--// Common Css -->
+    <!-- Nav Css -->
+    <link rel="stylesheet" href="css/style4.css">
+    <!--// Nav Css -->
+    <!-- Fontawesome Css -->
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <!--// Fontawesome Css -->
+    <!--// Style-sheets -->
+
+    <!--web-fonts-->
+    <link href="http://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+    <!--//web-fonts-->
+</head>
+
+
+<body>
+    <div class="se-pre-con"></div>
+    <div class="wrapper">
+        <!-- Sidebar Holder -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h6>
+                    <a href="">Global Education System</a>
+                </h6>
+                <span>GES</span>
+            </div>
+            
+            <ul class="list-unstyled components">
+                <li class="">
+                    <a href="">
+                        <i class="fas fa-th-large"></i>
+                        Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <i class="fas fa-laptop"></i>
+                        Classes
+                        
+                    </a>
+                   
+                </li>
+             
+              
+                <li>
+                    <a href="">
+                        <i class="far fa-window-restore"></i>
+                        Courses
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <i class="fas fa-user"></i>
+                        Profile
+                        
+                    </a>
+                </li>
+                <li>
+                    <a href="maps.html">
+                        <i class="far fa-map"></i>
+                        Enrollments
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Page Content Holder -->
+        <div id="content">
+            <!-- top-bar -->
+            <nav class="navbar navbar-default mb-xl-5 mb-4">
+                <div class="container-fluid">
+
+                    <div class="navbar-header float-left">
+                        <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                    </div>
+                 <h5 class="float-left" style="margin-left:20px; margin-top:10px">Student Dashboard</h5>
+                    <ul class="top-icons-agileits-w3layouts float-right">
+                      
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                aria-expanded="false">
+                                <i class="far fa-user"></i>
+                                Irfan Siddiqui
+                            </a>
+                            <div class="dropdown-menu drop-3">
+                                <div class="profile d-flex mr-o">
+                                    <div class="profile-l align-self-center">
+                                        <img src="images/profile.jpg" class="img-fluid mb-3" alt="Responsive image">
+                                    </div>
+                                    <div class="profile-r align-self-center">
+                                        <h4 class="sub-title-w3-agileits">Irfan Siddiqui</h4>
+                                        <a href="#">info@example.com</a>
+                                    </div>
+                                </div>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="far fa-user mr-3"></i>My Profile</h4>
+                                </a>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="fas fa-link mr-3"></i>Upgrade / Switch Profile</h4>
+                                </a>
+                             
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="login.html">Logout</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <!--// top-bar -->
+            <div class="container-fluid">
+                <div class="row">
+                    
+                    
+                </div>
+            </div>
+          
+            <div class="container-fluid">
+                <div class="row">
+                  
+                </div>
+            </div>
+         
+         
+         
+         
+         
+            <!-- Copyright -->
+            <div class="copyright-w3layouts py-xl-3 py-2 mt-xl-5 mt-4 text-center">
+                <p>© All Rights Reserved | Developed by
+                    <a href="http://www.zuhrtech.com"> Zuhrtech Inc. </a>
+                </p>
+            </div>
+            <!--// Copyright -->
+        </div>
+    </div>
+
+
+    <!-- Required common Js -->
+    <script src='js/jquery-2.2.3.min.js'></script>
+    <!-- //Required common Js -->
+
+    <!-- loading-gif Js -->
+    <script src="js/modernizr.js"></script>
+    <script>
+        //paste this code under head tag or in a seperate js file.
+        // Wait for window load
+        $(window).load(function () {
+            // Animate loader off screen
+            $(".se-pre-con").fadeOut("slow");;
+        });
+    </script>
+    <!--// loading-gif Js -->
+
+    <!-- Sidebar-nav Js -->
+    <script>
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+    </script>
+    <!--// Sidebar-nav Js -->
+    <!-- profile-widget-dropdown js-->
+    <script src="js/script.js"></script>
+    <!--// profile-widget-dropdown js-->
+
+
+    <!-- dropdown nav -->
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- //dropdown nav -->
+
+    <!-- Js for bootstrap working-->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- //Js for bootstrap working -->
+
+</body>
+
+
+
+</html>

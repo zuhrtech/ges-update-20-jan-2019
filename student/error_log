@@ -1,0 +1,75 @@
+[17-Jan-2019 08:09:43 America/New_York] PHP Fatal error:  Call to undefined function home_url() in /home/zuhrtech/ges.zuhrtech.com/web/student/index.php on line 14
+[17-Jan-2019 08:09:49 America/New_York] PHP Fatal error:  Call to undefined function home_url() in /home/zuhrtech/ges.zuhrtech.com/web/student/index.php on line 14
+[17-Jan-2019 08:11:02 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/zuhrtech/ges.zuhrtech.com/web/student/index.php on line 14
+[17-Jan-2019 08:16:01 America/New_York] PHP Fatal error:  Call to undefined function home_url() in /home/zuhrtech/ges.zuhrtech.com/web/student/index.php on line 14
+[17-Jan-2019 15:19:54 America/New_York] PHP Notice:  Array to string conversion in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 166
+[17-Jan-2019 15:19:54 America/New_York] PHP Notice:  Array to string conversion in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 166
+[20-Jan-2019 19:09:26 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:26 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:37 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:37 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:47 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:47 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:09:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:10:25 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:10:25 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:10:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:11 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:11 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:14 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:14 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:47 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:47 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:52 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:52 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:11:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:50 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:50 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:53 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:53 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:13:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:14:37 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:14:37 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:14:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:15:30 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:15:30 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:15:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:18:46 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:18:46 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:18:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:26 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:26 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:33 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:33 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:21:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:22:15 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:22:15 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:22:15 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:23:30 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:23:30 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:23:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:13 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:13 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:13 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:40 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:40 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:24:40 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:26:03 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:26:03 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:26:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:28:08 America/New_York] PHP Notice:  Undefined variable: result2 in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:28:08 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 19:28:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 22:52:50 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[20-Jan-2019 22:52:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[20-Jan-2019 22:52:50 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 11
+[25-Jan-2019 11:57:59 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[25-Jan-2019 11:57:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 8
+[25-Jan-2019 11:57:59 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/student/index.php on line 11

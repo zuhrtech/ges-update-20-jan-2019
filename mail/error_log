@@ -1,0 +1,2 @@
+[20-Jan-2019 22:07:53 America/New_York] PHP Catchable fatal error:  Object of class PHPMailer could not be converted to string in /home/zuhrtech/test.ges.zuhrtech.com/mail/mail.php on line 80
+[20-Jan-2019 22:07:57 America/New_York] PHP Catchable fatal error:  Object of class PHPMailer could not be converted to string in /home/zuhrtech/test.ges.zuhrtech.com/mail/mail.php on line 80

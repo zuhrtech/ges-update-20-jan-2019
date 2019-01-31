@@ -1,0 +1,62 @@
+[20-Jan-2019 19:33:30 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 535
+[20-Jan-2019 20:15:08 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 555
+[20-Jan-2019 20:34:19 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 10
+[20-Jan-2019 20:36:00 America/New_York] PHP Warning:  The use statement with non-compound name 'PHPMailer' has no effect in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 3
+[20-Jan-2019 20:36:00 America/New_York] PHP Warning:  The use statement with non-compound name 'Exception' has no effect in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 4
+[20-Jan-2019 20:36:00 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 13
+[20-Jan-2019 20:39:25 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1736
+[20-Jan-2019 20:40:47 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:40:52 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:41:47 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 16
+[20-Jan-2019 20:41:51 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 16
+[20-Jan-2019 20:42:55 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:43:00 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:44:03 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1736
+[20-Jan-2019 20:44:04 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1736
+[20-Jan-2019 20:44:59 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailerr' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:45:01 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailerr' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 14
+[20-Jan-2019 20:48:36 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 7
+[20-Jan-2019 20:48:37 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[20-Jan-2019 20:51:05 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 12
+[20-Jan-2019 20:51:08 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/mail.php on line 12
+[20-Jan-2019 20:58:29 America/New_York] PHP Fatal error:  Call to undefined function zsendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 20:58:31 America/New_York] PHP Fatal error:  Call to undefined function zsendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:03:31 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1736
+[20-Jan-2019 21:08:27 America/New_York] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1736
+[20-Jan-2019 21:09:37 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/zuhrtech/test.ges.zuhrtech.com/phpmailer/PHPMailer.php on line 1708
+[20-Jan-2019 21:15:25 America/New_York] PHP Fatal error:  Call to undefined function zsendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:15:33 America/New_York] PHP Fatal error:  Call to undefined function zsendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:16:27 America/New_York] PHP Fatal error:  Call to undefined function sendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:16:35 America/New_York] PHP Fatal error:  Call to undefined function sendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:22:11 America/New_York] PHP Fatal error:  Call to undefined function sendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:23:21 America/New_York] PHP Fatal error:  Call to undefined function sendmail() in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 534
+[20-Jan-2019 21:52:25 America/New_York] PHP Fatal error:  Class 'PHPMailer' not found in /home/zuhrtech/test.ges.zuhrtech.com/mail/mail.php on line 15
+[20-Jan-2019 22:02:23 America/New_York] PHP Notice:  fputs(): send of 28 bytes failed with errno=32 Broken pipe in /home/zuhrtech/test.ges.zuhrtech.com/mail/class.smtp.php on line 497
+[20-Jan-2019 22:23:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 537
+[20-Jan-2019 22:23:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 538
+[20-Jan-2019 22:23:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 541
+[20-Jan-2019 22:23:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 542
+[20-Jan-2019 22:23:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 537
+[20-Jan-2019 22:23:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 538
+[20-Jan-2019 22:23:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 541
+[20-Jan-2019 22:23:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zuhrtech/test.ges.zuhrtech.com/account.php:502) in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 542
+[21-Jan-2019 00:04:42 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[22-Jan-2019 03:23:20 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 7
+[22-Jan-2019 03:23:21 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[22-Jan-2019 13:13:54 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 98
+[22-Jan-2019 13:13:54 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 101
+[23-Jan-2019 01:48:03 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/account.php on line 7
+[23-Jan-2019 01:48:03 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[23-Jan-2019 03:29:54 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[24-Jan-2019 00:31:38 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[24-Jan-2019 00:36:18 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[24-Jan-2019 03:39:10 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[26-Jan-2019 11:57:39 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[28-Jan-2019 10:28:58 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7
+[31-Jan-2019 03:35:46 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 101
+[31-Jan-2019 03:35:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 104
+[31-Jan-2019 03:36:07 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 101
+[31-Jan-2019 03:36:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 104
+[31-Jan-2019 03:36:18 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 101
+[31-Jan-2019 03:36:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 104
+[31-Jan-2019 04:03:56 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/index.php on line 7

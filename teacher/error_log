@@ -1,0 +1,23 @@
+[22-Jan-2019 04:50:30 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 308
+[22-Jan-2019 04:55:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 204
+[22-Jan-2019 04:55:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 204
+[22-Jan-2019 05:04:00 America/New_York] PHP Notice:  Undefined variable: total in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 47
+[22-Jan-2019 05:06:50 America/New_York] PHP Notice:  Undefined variable: total in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 47
+[22-Jan-2019 05:09:24 America/New_York] PHP Notice:  Undefined variable: total in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 47
+[22-Jan-2019 05:09:50 America/New_York] PHP Notice:  Undefined variable: total in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 47
+[22-Jan-2019 05:13:08 America/New_York] PHP Notice:  Undefined variable: totals in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 48
+[22-Jan-2019 05:13:41 America/New_York] PHP Notice:  Undefined variable: totals in /home/zuhrtech/test.ges.zuhrtech.com/teacher/enrollments.php on line 48
+[22-Jan-2019 05:14:59 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[22-Jan-2019 05:14:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 8
+[22-Jan-2019 05:14:59 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 11
+[22-Jan-2019 06:03:08 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[22-Jan-2019 06:03:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 8
+[22-Jan-2019 06:03:08 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 11
+[22-Jan-2019 13:55:56 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[22-Jan-2019 13:55:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 8
+[22-Jan-2019 13:55:56 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 11
+[24-Jan-2019 00:26:25 America/New_York] PHP Notice:  Undefined index: ges_session in /home/zuhrtech/test.ges.zuhrtech.com/access.php on line 5
+[24-Jan-2019 00:26:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 8
+[24-Jan-2019 00:26:25 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 11
+[24-Jan-2019 01:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 8
+[24-Jan-2019 01:18:51 America/New_York] PHP Notice:  Undefined index: ges_access in /home/zuhrtech/test.ges.zuhrtech.com/teacher/index.php on line 11
